@@ -1,0 +1,3 @@
+include ':customlibrary'
+include ':app'
+rootProject.name = "CustomLib"
